@@ -1,4 +1,5 @@
-Rezolutie
-=========
+Rezolutie App for Firefox OS
+============
 
-New Year Resolutions todo Fireofox Os app
+New Year Resolutions list.
+A simple todo app based on Todos Moz App.
