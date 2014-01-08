@@ -4,9 +4,9 @@
   "description": "New Year Resolution App",
   "launch_path": "/index.html",
   "icons": {
-    "16": "/img/icons/mortar-16.png",
-    "48": "/img/icons/mortar-48.png",
-    "128": "/img/icons/mortar-128.png"
+    "16": "/img/icons/rzicon16.png",
+    "48": "/img/icons/rzicon48.png",
+    "128": "/img/icons/rzicon128.png"
   },
   "developer": {
     "name": "anistark",
