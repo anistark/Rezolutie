@@ -1,0 +1,18 @@
+{
+  "version": "0.1",
+  "name": "Rezolutie",
+  "description": "New Year Resolution App",
+  "launch_path": "/www/index.html",
+  "icons": {
+    "16": "/www/img/icons/rzicon16.png",
+    "48": "/www/img/icons/rzicon48.png",
+    "128": "/www/img/icons/rzicon128.png"
+  },
+  "developer": {
+    "name": "anistark",
+    "url": "http://anistark.github.io"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+  "default_locale": "en"
+}
